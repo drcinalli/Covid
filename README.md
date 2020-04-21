@@ -27,24 +27,24 @@ c. sub-notificacao
 
 
 # Título
-nono nono onon onon onon <br>
-nono nonon on onon non oon
+Um modelo preditivo de surto epidêmcio de doenças  baseado em fontes variadas, inclusive  redes sociais, avaliando diferentes perfis(profissionais de saúde , pacientes) num contexto geográfico e temporal
 
 # Motivação
-nono nono onon onon onon <br>
-nono nonon on onon non oon
+Celeridade da epidemia para evitar colapso no sistema de atendimento médico
 
 # Problema
-nono nono onon onon onon <br>
-nono nonon on onon non oon
+a pandemia covid apresenta um vírus muito voraz, requer internação longa, muitas filas. Escassez de Testagem, população suscetível , infectados assintomáticos, porém transmissores, geram uma curva exponencial perigosa cujo sistema de saúde não consegue atender e entra em colapso.  Há uma mistura de heroísmo e pânico dentre os profissionais de saúde e uma hesitação quanto a estratégias de testagem, sendo que tudo isso corrobora para uma análise confusa sobre um problema difícil.
 
 # Hipótese
-nono nono onon onon onon <br>
-nono nonon on onon non oon
+os sentimentos captados em redes sociais e outras fontes sobre o comportamento dos diversos atores, profissionais de saúde e pacientes, permite a aquisição de fatores para um modelo preditivo de surto epidêmico ( e possíviel subnotificação)
 
 # Fundamentação Teórica (& trabalhos relacionados)
-nono nono onon onon onon <br>
-nono nonon on onon non oon
+Modelo SIR
+Modelos estocásticos Markov / Bayesiano e Simulação MonteCarlo
+Análise de Sentimentos
+PLN
+classificadores
+
 
 # Contribuição
 nono nono onon onon onon <br>

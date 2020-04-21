@@ -33,7 +33,7 @@ Um modelo preditivo de surto epidêmcio de doenças  baseado em fontes variadas,
 Celeridade da epidemia para evitar colapso no sistema de atendimento médico
 
 # Problema
-a pandemia covid apresenta um vírus muito voraz, requer internação longa, muitas filas. Escassez de Testagem, população suscetível , infectados assintomáticos, porém transmissores, geram uma curva exponencial perigosa cujo sistema de saúde não consegue atender e entra em colapso.  Há uma mistura de heroísmo e pânico dentre os profissionais de saúde e uma hesitação quanto a estratégias de testagem, sendo que tudo isso corrobora para uma análise confusa sobre um problema difícil.
+A pandemia covid apresenta um cenário surprenendente em vários apsectos, por ser tratar de um vírus com propagação muito rápida, que em casos mais graves da doença demanda internação longa com equipamentos restritos, o que tem provocado colapso na capacidade de atendimento.  Escassez de Testagem, imensa população suscetível , infectados assintomáticos, porém transmissores, são fatores que corroboram pra essa complexidade.   Há uma mistura de heroísmo e pânico dentre os profissionais de saúde, pela exposição quase que permanente, o quanto esses sentimentos podem auxiliar no encaminhamento para um modelo de predição.
 
 # Hipótese
 os sentimentos captados em redes sociais e outras fontes sobre o comportamento dos diversos atores, profissionais de saúde e pacientes, permite a aquisição de fatores para um modelo preditivo de surto epidêmico ( e possíviel subnotificação)
